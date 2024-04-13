@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75251107189",
+    "project_id": "connect-app-17f5f",
+    "storage_bucket": "connect-app-17f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75251107189:android:9a0c91fc59821d2d037f3c",
+        "android_client_info": {
+          "package_name": "com.example.connect_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75251107189-dvo3mpbia7b3q44akt1ophb0t5401k9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZta1269aLwHniO4cmj6fVOtvn104PqGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75251107189-dvo3mpbia7b3q44akt1ophb0t5401k9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
